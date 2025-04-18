@@ -1,5 +1,3 @@
-# relogio-slip
-relogio para notion
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
